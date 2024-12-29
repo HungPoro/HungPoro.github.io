@@ -1,3 +1,12 @@
+.vien{
+    width: 40%; /* Keeps consistent width for all inputs */
+    padding: 10px;
+    height: 40px; /* Consistent input height */
+    margin: 5px 0; /* Spacing between inputs */
+    box-sizing: border-box; /* Ensures padding doesn't overflow width */
+    border: 1px solid #ccc;
+}
+
 .parent-container {
     display: flex;
     flex-direction: column; /* Aligns inputs in a single vertical column */
