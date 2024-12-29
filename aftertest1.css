@@ -1,10 +1,8 @@
-.vien{
-    width: 40%; /* Keeps consistent width for all inputs */
-    padding: 10px;
-    height: 40px; /* Consistent input height */
-    margin: 5px 0; /* Spacing between inputs */
-    box-sizing: border-box; /* Ensures padding doesn't overflow width */
-    border: 1px solid #ccc;
+.mainhead{
+    display: flex;
+    align-items: center; /* Centers all inputs horizontally */
+    margin: 10px 0; /* Adds vertical spacing between rows */
+    width: 70%;
 }
 
 .parent-container {
