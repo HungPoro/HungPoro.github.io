@@ -1,0 +1,53 @@
+.parent-container {
+    display: flex;
+    flex-direction: column; /* Aligns inputs in a single vertical column */
+    align-items: center; /* Centers all inputs horizontally */
+    margin: 10px 0; /* Adds vertical spacing between rows */
+}
+.parent-container2 {
+    display: flex;
+    flex-direction: row; /* Aligns inputs in a single vertical column */
+    align-items: center; /* Centers all inputs horizontally */
+    margin: 5px 0; /* Adds vertical spacing between rows */
+    width: 40%;
+}
+.vienngoai{
+    width: 40%; /* Keeps consistent width for all inputs */
+    padding: 10px;
+    height: 40px; /* Consistent input height */
+    margin: 5px 0; /* Spacing between inputs */
+    box-sizing: border-box; /* Ensures padding doesn't overflow width */
+    border: 1px solid #ccc;
+}
+
+.vienngoai2 {
+    width: 60%; /* Keeps consistent width for all inputs */
+    padding: 10px;
+    height: 40px; /* Consistent input height */
+    margin: 5px 0; /* Spacing between inputs */
+    box-sizing: border-box; /* Ensures padding doesn't overflow width */
+    border: 1px solid #ccc;
+}
+.vienngoai3 {
+    width: 60%; /* Keeps consistent width for all inputs */
+    padding: 10px;
+    height: 40px; /* Consistent input height */
+    margin: 5px 0; /* Spacing between inputs */
+    box-sizing: border-box; /* Ensures padding doesn't overflow width */
+    border: 1px solid #ccc;
+}
+.vienngoai4{
+    width: 40%; /* Keeps consistent width for all inputs */
+    padding: 10px;
+    height: 40px; /* Consistent input height */
+    margin: 5px 0; /* Spacing between inputs */
+    box-sizing: border-box; /* Ensures padding doesn't overflow width */
+    border: 1px solid #ccc;
+}
+.optionfix {
+    width: 40%; /* Matches the inputs' width */
+    padding: 10px;
+    height: 40px;
+    margin: 5px 0;
+    box-sizing: border-box;
+}
