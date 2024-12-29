@@ -1,8 +1,12 @@
 .mainhead{
     display: flex;
+    flex-direction: column;
     align-items: center; /* Centers all inputs horizontally */
     margin: 10px 0; /* Adds vertical spacing between rows */
-    width: 70%;
+}
+.chomnefieldset{
+    width: 50%;
+    text-align: center;
 }
 
 .parent-container {
